@@ -18,14 +18,6 @@ As the Airbnb data is usually arranged by location, a shell script is created to
 
 ![](<!Image/Figure1.PNG>)
 
-
-## Tools Used
-- Ubuntu 
-- Hadoop
-- PySpark
-- Apache Hive
-- Apache Pig
-
 ## Scripts
 - The data collection process is automated by running the ***BatchRun_Initial.sh*** file
 - ***BatchRun_Hive.sh*** and ***BatchRun_Pig.sh*** are the respective scripts that consolidate all codes to run in one go in ***Pig*** and ***Hive*** respectively.
